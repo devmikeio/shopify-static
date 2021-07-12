@@ -1,0 +1,29 @@
+.header3 {
+    background: #fcfcfc;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10px;
+    a {
+        font-family: sans-serif;
+        text-decoration: none;
+        color: #3c3953;
+        font-weight: 500;
+        &:hover{
+            color: #e63b49;
+        }
+    }
+    &__collections-nav {
+        a {
+            padding-right: 30px;
+            display: inline-block;
+        }
+    }
+    &__logo{
+        a{
+            font-size: 3rem;
+            font-family: 'Bebas Neue', cursive;
+        }
+    }
+}
