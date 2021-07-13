@@ -1,0 +1,16 @@
+.collection1{
+    padding: 100px 0;
+    &__collection-item{
+        
+    }
+    &__product-img{
+        background: #EDEFF5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 550px;
+        img{
+            max-width: 70%;
+        }
+    }
+}

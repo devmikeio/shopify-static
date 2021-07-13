@@ -2,6 +2,7 @@ import Head from 'next/head'
 import MainLayout from '../components/layouts/MainLayout'
 import Hero1 from '../components/Hero/Hero1/Hero1'
 import Hero2 from '../components/Hero/Hero2/Hero2'
+import Collection1 from '../components/Collections/Collection1/Collection1'
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero2 />
-      This is the index page
+      <Collection1 />
     </MainLayout>
   )
 }
