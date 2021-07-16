@@ -2,7 +2,7 @@ export default function Header2(){
     return(
         <header className="header header2">
             <div className="header2__logo">
-                <a href="/link">Company</a>
+                <a href="/link">STORE</a>
             </div>
             <div className="header2__collections-nav">
                 <a href="/link">Link</a>

@@ -7,7 +7,7 @@ export default function Header1(){
                 <a href="/link">Link</a>
             </div>
             <div className="header1__logo">
-                <a href="/link">Company</a>
+                <a href="/link">STORE</a>
             </div>
             <div className="header1__collections-nav">
                 <a href="/link">Link</a>

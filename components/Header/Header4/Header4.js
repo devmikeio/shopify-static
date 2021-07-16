@@ -5,7 +5,7 @@ export default function Header4(){
             <AnnounceBar />
             <header className="header header4">
                 <div className="header4__logo">
-                    <a href="/link">Company</a>
+                    <a href="/link">DEVMIKE</a>
                 </div>
                 <div className="header4__collections-nav">
                     <a href="/link">Link</a>
