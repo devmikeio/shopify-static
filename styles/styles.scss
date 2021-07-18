@@ -5,6 +5,11 @@
 body{
     background-color: #f7f9fd;
 }
+a{
+    &:hover{
+        color: rgb(0, 250, 175);
+    }
+}
 
 .fixed-nav{
     &.transparent-nav{
